@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@libp2p/tcp": "^5.0.1",
     "libp2p": "^0.40.0"
   },
   "scripts": {
